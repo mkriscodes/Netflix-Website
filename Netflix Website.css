@@ -21,6 +21,12 @@
     img {
         width: 80%;
     }
+
+@media (max-width: 650px) {
+    img {
+        width: 100%;
+    }
+}
     
     .showcase {
         background: url('https://bramptonist.com/wp-content/uploads/2018/06/netflix-image.jpg') no-repeat center center/cover;
