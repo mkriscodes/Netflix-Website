@@ -74,14 +74,14 @@
         margin-top: 4rem;
     }
     
-    @media (ax-width: 650px) {
+    @media (min-width: 200px) {
         .showcase-content h1 {
             font-size: 25px;
             margin-top: -50px;
         }
     }
     
-    @media (max-width: 650px) {
+    @media (min-width: 200px) {
         .showcase-content p {
             font-size: 25px;
         }
@@ -302,7 +302,7 @@
         border-radius: 5px;
     }
 
-    @media(max-width: 650px) {
+    @media(min-width: 200px) {
         .btn-xl {
             font-size: 25px;
             padding: 1rem 1rem;
