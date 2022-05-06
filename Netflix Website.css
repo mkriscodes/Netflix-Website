@@ -84,12 +84,14 @@
         .showcase-content h1 {
             font-size: 8px;
             margin-top: -40px;
+           flex-direction: row;
         }
     }
     
     @media (max-width: 650px) {
         .showcase-content p {
             font-size: 8px;
+           flex-direction: row;
         }
     }
     
