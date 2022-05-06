@@ -302,15 +302,10 @@
 @media (max-width: 650px) {
         .btn-rounded {
             border-radius: 5px;
-            align-items: right;
-            justify-content: right;
+            margin-right: -2rem;
         }
     }
-    
-    .btn-rounded {
-        border-radius: 5px;
-    }
-    
+ 
     .btn-xl {
         font-size: 30px;
         padding: 1rem 2rem;
