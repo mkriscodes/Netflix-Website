@@ -322,7 +322,7 @@
     @media(max-width: 650px) {
         .btn-xl {
             font-size: 15px;
-            padding: 1rem 1rem;
+            padding: 1rem;
         }
     }
     
