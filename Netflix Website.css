@@ -298,6 +298,14 @@
     .btn:hover {
         opacity: 0.9;
     }
+
+@media (max-width: 650px) {
+        .btn-rounded {
+            border-radius: 5px;
+            align-items: right;
+            justify-content: right;
+        }
+    }
     
     .btn-rounded {
         border-radius: 5px;
