@@ -76,14 +76,14 @@
     
     @media (max-width: 650px) {
         .showcase-content h1 {
-            font-size: 12px;
+            font-size: 8px;
             margin-top: -40px;
         }
     }
     
     @media (max-width: 650px) {
         .showcase-content p {
-            font-size: 10px;
+            font-size: 8px;
         }
     }
     
