@@ -324,7 +324,7 @@ container {
 
 .btn-xl {
     font-size: 20px;
-    padding: 1rem 1rem;
+    padding: 1rem 2rem;
     text-transform: uppercase;
     margin-top: 4rem;
 }
@@ -332,7 +332,7 @@ container {
 @media(max-width: 700px) {
     .btn-xl {
         font-size: 15px;
-        padding: 1rem 1rem;
+        padding: 1rem 2rem;
     }
 }
 
